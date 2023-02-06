@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: 'Pacifico', cursive;
+font-size: 30px;
+color:lightpink
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size:cover;
+    background-position:center;
+    font-family:monospace;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow:10px 10px 10px grey;
+    margin-top:100px;
+}
+
